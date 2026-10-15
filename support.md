@@ -9,7 +9,7 @@ Geòlas is a field notebook for geologists covering Great Britain: log a site wi
 
 ## Getting help
 
-Email callumpmaclellan@proton.me. Say which device you're on and what you were doing, and include a screenshot if there's anything to see.
+Email 88_intake.troupes@icloud.com. Say which device you're on and what you were doing, and include a screenshot if there's anything to see.
 
 ## Common questions
 

@@ -59,4 +59,4 @@ If this ever stops being true, the policy will be updated before the change ship
 
 ## Contact
 
-Questions about privacy, or about the app: callumpmaclellan@proton.me
+Questions about privacy, or about the app: 88_intake.troupes@icloud.com

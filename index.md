@@ -9,5 +9,5 @@ A field notebook for geologists, covering Great Britain. Log a site with GPS, ge
 - [Privacy policy](privacy.md)
 - - [Support](support.md)
  
-  - Questions: callumpmaclellan@proton.me
+  - Questions: 88_intake.troupes@icloud.com
   - 
