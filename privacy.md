@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Privacy Policy — Geòlas
 
-*Last updated: 15 November 2026*
+*Last updated: 16 November 2026*
 
 Geòlas keeps your field notes to yourself. There is no Geòlas account, no Geòlas server, and no sign-in.
 
@@ -32,7 +32,7 @@ None of this is linked to your identity by the developer, because the developer 
 
 Some pages have a feedback button, for suggesting a correction or an idea about Geòlas's own reference content — a reference site, a geopark board, a simulation — or about the app in general. It is never about your own sites or notes, and nothing is sent unless you write a message and tap Send.
 
-If you're signed in to iCloud, your message is saved in Geòlas's iCloud database for the developer to read. It holds what you wrote, the name you give if you choose to give one, which page it's about (with what that page showed), and the app's version number. Apple adds an anonymous identifier for your iCloud account that is unique to Geòlas; it is not your name or your Apple ID, and the developer cannot turn it into either. If iCloud isn't available, the button opens your email app with the message filled in instead, and it is sent as an ordinary email from your own address.
+If you're signed in to iCloud, your message is saved in Geòlas's iCloud database, where only the developer can read it. It holds what you wrote, the name you give if you choose to give one, which page it's about (with what that page showed), and the app's version number. Apple adds an anonymous identifier for your iCloud account that is unique to Geòlas; it is not your name or your Apple ID, and the developer cannot turn it into either. If iCloud isn't available, the button opens your email app with the message filled in instead, and it is sent as an ordinary email from your own address.
 
 Feedback is used only to improve Geòlas. To have any feedback you've sent removed, write to the address below.
 
